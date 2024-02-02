@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodion Hatskevich</h1>
 <h3 align="center">I am frontend developer(React and React Native)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gatskevich" alt="gatskevich" /></a> </p>
-
 - 🌱 I’m currently learning **.Net, C#**
 
 - 📫 How to reach me **rodionhatskevich@gmail.com**
