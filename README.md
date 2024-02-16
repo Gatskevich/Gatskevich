@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodion Hatskevich</h1>
+<h1 align="center">Hi 👋, I'm Rodion Gatskevich</h1>
 <h3 align="center">I am frontend developer(React and React Native)</h3>
 
 - 🌱 I’m currently learning **.Net, C#**
